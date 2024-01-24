@@ -1,16 +1,18 @@
- doctors = [
-  { id: 1, name: "Dr. K. Shanmugam", location: "Chennai", qualifications: ["MBBS", "MD"] },
-  { id: 2, name: "Dr. S. S. Lakshmanan", location: "Bengaluru", qualifications: ["MBBS", "MS"] },
-  { id: 3, name: "Dr. Joy Chakravarty", location: "Mumbai", qualifications: ["MBBS", "DM"] },
-  { id: 4, name: "Dr. Naval Chandra", location: "Ahmedabad", qualifications: ["MBBS", "MD"] },
-  { id: 5, name: "Dr. Sandeep Chowdhary", location: "Hyderabad", qualifications: ["MBBS", "MS"] },
-  { id: 6, name: "Dr. S. N. Narasingan", location: "Pune", qualifications: ["MBBS", "DM"] },
-  { id: 7, name: "Dr. Rajesh Kakkar", location: "Kolkata", qualifications: ["MBBS", "MD"] },
-  { id: 8, name: "Dr. S. Vijay Mohan", location: "Surat", qualifications: ["MBBS", "MS"] },
-  { id: 9, name: "Dr. Nirupam Prakash", location: "Indore", qualifications: ["MBBS", "DM"] },
-  { id: 10, name: "Dr. Vijay Viswanathan", location: "Chennai", qualifications: ["MBBS", "MD"] },
-  { id: 11, name: "Dr. Sageet Dutta", location: "Chennai", qualifications: ["MBBS", "MS"] },
-  { id: 12, name: "Dr. A. Vinaya Sekhar", location: "Mumbai", qualifications: ["MBBS", "DM"] },
-  { id: 13, name: "Dr. Atul Mehrotra", location: "Guwahati", qualifications: ["MBBS", "MD"] },
-  { id: 14, name: "Dr Bhaskar Thakuria", location: "Bengaluru", qualifications: ["MBBS", "MS"] }
-];
+{
+  "doctors": [
+    { "id": 1, "name": "Dr. K. Shanmugam", "location": "Chennai", "qualifications": ["MBBS", "MD"] },
+    { "id": 2, "name": "Dr. S. S. Lakshmanan", "location": "Bengaluru", "qualifications": ["MBBS", "MS"] },
+    { "id": 3, "name": "Dr. Joy Chakravarty", "location": "Mumbai", "qualifications": ["MBBS", "DM"] },
+    { "id": 4, "name": "Dr. Naval Chandra", "location": "Ahmedabad", "qualifications": ["MBBS", "MD"] },
+    { "id": 5, "name": "Dr. Sandeep Chowdhary", "location": "Hyderabad", "qualifications": ["MBBS", "MS"] },
+    { "id": 6, "name": "Dr. S. N. Narasingan", "location": "Pune", "qualifications": ["MBBS", "DM"] },
+    { "id": 7, "name": "Dr. Rajesh Kakkar", "location": "Kolkata", "qualifications": ["MBBS", "MD"] },
+    { "id": 8, "name": "Dr. S. Vijay Mohan", "location": "Surat", "qualifications": ["MBBS", "MS"] },
+    { "id": 9, "name": "Dr. Nirupam Prakash", "location": "Indore", "qualifications": ["MBBS", "DM"] },
+    { "id": 10, "name": "Dr. Vijay Viswanathan", "location": "Chennai", "qualifications": ["MBBS", "MD"] },
+    { "id": 11, "name": "Dr. Sageet Dutta", "location": "Chennai", "qualifications": ["MBBS", "MS"] },
+    { "id": 12, "name": "Dr. A. Vinaya Sekhar", "location": "Mumbai", "qualifications": ["MBBS", "DM"] },
+    { "id": 13, "name": "Dr. Atul Mehrotra", "location": "Guwahati", "qualifications": ["MBBS", "MD"] },
+    { "id": 14, "name": "Dr Bhaskar Thakuria", "location": "Bengaluru", "qualifications": ["MBBS", "MS"] }
+  ]
+}
