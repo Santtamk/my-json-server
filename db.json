@@ -1,18 +1,18 @@
 {
   "doctors": [
-    { "id": 1, "name": "Dr. K. Shanmugam", "location": "chennai", "qualifications": ["MBBS", "MD"] },
-    { "id": 2, "name": "Dr. S. S. Lakshmanan", "location": "bengaluru", "qualifications": ["MBBS", "MS"] },
-    { "id": 3, "name": "Dr. Joy Chakravarty", "location": "mumbai", "qualifications": ["MBBS", "DM"] },
-    { "id": 4, "name": "Dr. Naval Chandra", "location": "ahmedabad", "qualifications": ["MBBS", "MD"] },
-    { "id": 5, "name": "Dr. Sandeep Chowdhary", "location": "hyderabad", "qualifications": ["MBBS", "MS"] },
-    { "id": 6, "name": "Dr. S. N. Narasingan", "location": "pune", "qualifications": ["MBBS", "DM"] },
-    { "id": 7, "name": "Dr. Rajesh Kakkar", "location": "kolkata", "qualifications": ["MBBS", "MD"] },
-    { "id": 8, "name": "Dr. S. Vijay Mohan", "location": "surat", "qualifications": ["MBBS", "MS"] },
-    { "id": 9, "name": "Dr. Nirupam Prakash", "location": "indore", "qualifications": ["MBBS", "DM"] },
-    { "id": 10, "name": "Dr. Vijay Viswanathan", "location": "chennai", "qualifications": ["MBBS", "MD"] },
-    { "id": 11, "name": "Dr. Sageet Dutta", "location": "chennai", "qualifications": ["MBBS", "MS"] },
-    { "id": 12, "name": "Dr. A. Vinaya Sekhar", "location": "mumbai", "qualifications": ["MBBS", "DM"] },
-    { "id": 13, "name": "Dr. Atul Mehrotra", "location": "guwahati", "qualifications": ["MBBS", "MD"] },
-    { "id": 14, "name": "Dr Bhaskar Thakuria", "location": "bengaluru", "qualifications": ["MBBS", "MS"] }
+    { "id": 1, "name": "Dr. K. Shanmugam", "location": "chennai", "qualifications": ["MBBS"] },
+    { "id": 2, "name": "Dr. S. S. Lakshmanan", "location": "bengaluru", "qualifications": ["MBBS"] },
+    { "id": 3, "name": "Dr. Joy Chakravarty", "location": "mumbai", "qualifications": ["MBBS"] },
+    { "id": 4, "name": "Dr. Naval Chandra", "location": "ahmedabad", "qualifications": ["MBBS"] },
+    { "id": 5, "name": "Dr. Sandeep Chowdhary", "location": "hyderabad", "qualifications": ["MBBS"] },
+    { "id": 6, "name": "Dr. S. N. Narasingan", "location": "pune", "qualifications": ["MBBS"] },
+    { "id": 7, "name": "Dr. Rajesh Kakkar", "location": "kolkata", "qualifications": ["MBBS"] },
+    { "id": 8, "name": "Dr. S. Vijay Mohan", "location": "surat", "qualifications": ["MBBS"] },
+    { "id": 9, "name": "Dr. Nirupam Prakash", "location": "indore", "qualifications": ["MBBS"] },
+    { "id": 10, "name": "Dr. Vijay Viswanathan", "location": "chennai", "qualifications": ["MBBS"] },
+    { "id": 11, "name": "Dr. Sageet Dutta", "location": "chennai", "qualifications": ["MBBS"] },
+    { "id": 12, "name": "Dr. A. Vinaya Sekhar", "location": "mumbai", "qualifications": ["MBBS"] },
+    { "id": 13, "name": "Dr. Atul Mehrotra", "location": "guwahati", "qualifications": ["MBBS"] },
+    { "id": 14, "name": "Dr Bhaskar Thakuria", "location": "bengaluru", "qualifications": ["MBBS"] }
   ]
 }
